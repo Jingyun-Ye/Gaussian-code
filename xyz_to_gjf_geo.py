@@ -1,5 +1,4 @@
 #Convert XYZ files to GJF files
-#9/6/21
 
 try:
 	import os
