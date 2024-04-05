@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# extract xyz coordinates from multiple Gaussian outputfiles, and save to .xyz files
 import glob
 import os
 
