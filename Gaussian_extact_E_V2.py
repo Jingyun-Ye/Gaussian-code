@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# python code to extract electronic energy(E) from mulitiple Gaussian output files to E.txt file.
+
 import glob
 import os
 
