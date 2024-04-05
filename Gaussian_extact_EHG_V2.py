@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# python code to extract electronic energy(E), enthalpy(H), Gibbs Free energy (G) from mulitiple Gaussian output files
+
 import glob
 import os
 
